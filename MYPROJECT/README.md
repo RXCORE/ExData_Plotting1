@@ -1,6 +1,6 @@
 
 ## Introduction
-###  Submitted by Ron Rick CHua
+###  Submitted by Ron Rick Chua
 
 R Codes are located under the Forked Version 
 
@@ -27,3 +27,9 @@ And the Plot images are located under
 ### Plot 4: Combinations of four graphs (Global Active Power, Voltage, Energy Sub-Metering, and Global Reactive Power) 
 
 ![plot of chunk plot4.png](PLOTS/plot4.png)
+
+
+
+
+## This Class is AWSOME!!!
+## THANKS!!!
