@@ -2,7 +2,8 @@
 ## Introduction
 ###  Submitted by Ron Rick Chua
 
-R Codes are located under the Forked Version: 
+R Codes are located under the Forked Version:
+
 [https://github.com/RXCORE/ExData_Plotting1/tree/master/MYPROJECT](https://github.com/RXCORE/ExData_Plotting1/tree/master/MYPROJECT)
 
 And the Plot images are located under:
