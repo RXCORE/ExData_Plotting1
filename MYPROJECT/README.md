@@ -9,4 +9,4 @@
 ### Plot 1
 
 
-![plot of chunk plot1.png](plots/plot1.png) 
+![plot of chunk plot1.png](PLOTS/plot1.png)
